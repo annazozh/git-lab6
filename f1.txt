@@ -1,2 +1,3 @@
 string from master
 more from master
+some string from B
