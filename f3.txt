@@ -1,1 +1,2 @@
 qwerty from master
+new string from A
