@@ -1,2 +1,3 @@
 string from master
 more from master
+new string from B
